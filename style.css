@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box
+}
+h1{
+    color:greenyellow;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+.bts{
+    color:rgb(183, 207, 42)
+}
+.btr{
+    background-color: black;
+    color:yellow;
+}
+.soh{
+    width:30px;
+    height:40px;
+}
+.ss {
+    background-color: black;
+}
+.dd{
+    background-color: blue;
+}

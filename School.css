@@ -1,0 +1,215 @@
+body{
+    background-color:white;
+    padding: 0px;
+    margin: 0px;
+
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+    /* margin-left: 140px; */
+}
+
+.yy{
+    width: 100%;
+    height: auto;
+    background-color:black;
+    position: absolute;
+}
+  
+
+.supper li{
+    list-style: none;
+    background-color:black;
+    /* margin: 20px; */
+    height: 50px;
+    width: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    float: left;
+    line-height: 50px;
+    margin-left: 50px;
+   
+    
+
+    
+    
+}
+.supper li a{
+    color:white;
+    display: block;
+    text-decoration: none;
+   
+  
+    
+
+   
+}
+.supper li :hover{
+    background-color:red;
+    margin: 0px;
+}
+
+.ff {
+    background-color:yellow!important;
+    font-size: 15px;
+}
+.supper li a{
+    margin-left: 90;
+    /* margin: 0px; */
+}
+.supper ul{
+    display: none;
+}
+.supper li:hover ul{
+    display: block;
+}
+ /* banner  */
+
+ .banner{
+     width: 90px;
+ }
+.banner img{
+    width: 1280px;
+    height: 300px;
+}
+.choose h1{
+width: 100%;
+text-align: center;
+}
+.choose h1{
+    margin:0 auto;
+    width: 300px;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px red solid;
+
+}
+.picture{
+    width: 20%;
+    height: 40%;
+    margin:25px;
+    text-align: center;
+    float: left;
+}
+.short{
+    width: 120px;
+    height: 120px;
+    border: 1px solid;
+    margin: 10px auto;
+    text-align: center;
+    line-height: 120px;
+    font-size: 60px;
+    background-color: darkred;
+    border-radius: 100px;
+    transition-duration: 1s;
+   
+}
+.apple{
+    width: 20%;
+    height: 40%;
+    margin:25px;
+    text-align: center;
+    float: left;
+}
+.icon{
+    width: 120px;
+    height: 120px;
+    border: 1px solid;
+    margin: 10px auto;
+    text-align: center;
+    line-height: 120px;
+    font-size: 60px;
+    background-color: darkred;
+    border-radius: 100px;
+    transition-duration: 1s;}
+.icon :hover{
+    font-size: 40px;
+}
+.s2{
+    display:inline-block;
+    width: 100%;
+text-align: center;
+}
+.s2 h1{
+    margin:0 auto;
+    width: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px red solid;
+
+}
+.div-s2{
+    width: 30%;
+    height: 40%;
+    margin:20px;
+    text-align: center;
+    float: left;
+}
+.div-s2 img{
+    width: 100%;
+}
+.fotter{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.div-fotter{
+    width: 20%;
+    height: 40%;
+    margin:25px;
+    text-align: center;
+    float: left;
+}
+.div-fotter h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,;
+    color: red;
+}
+.div-fotter p{
+    color:white;
+}
+.div-fotter button{
+    width: 30opx;
+    height: 40px;
+    background-color: red;
+}
+.div-fotter ul li{
+    list-style:none;
+}
+.div-fotter ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.link{
+    color: aliceblue;
+}
+/* nhi aya */
+.lastest{
+    width: 100%;
+    height: 30px;
+    display:inline-block;
+}
+.last1{
+    color: aliceblue
+}
+.last1{
+    float: left;
+    width: 50%;
+}
+.div-fotter a{
+    color: aliceblue;
+    
+}
+.sir{
+    height: 200px;
+    width:50px;
+    
+}
